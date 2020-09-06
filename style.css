@@ -1,0 +1,53 @@
+body{
+  background-color: #ffffff !important;
+}
+#logo{
+  font-size: 20px;
+font-family: cursive;
+color: #3cb371;
+}
+#logos{
+  font-size:  30px;
+}
+#carouselExampleCaptions{
+  width: 1000px !important;
+  margin-left: 125px;
+  margin-top: 10px;
+
+}
+#profile{
+
+
+  font-size: 50px;
+  display: inline !important;
+
+
+}
+.navbar-nav{
+  margin-top: 20px;
+}
+#info{
+  margin:20px 100px 0px 100px;
+  text-align: center;
+
+}
+#card1{
+  display: inline-block !important;
+  float:left;
+  margin: 40px 50px 0px 150px;
+  background-color: #3c3c3c;
+  color: #ffffff;
+}
+#card2{
+  display: inline-block !important;
+  margin: 40px 50px 0px 0px;
+  background-color: #3c3c3c;
+  color: #ffffff;
+}
+#card3{
+  display: inline-block !important;
+  margin: 40px 100px 0px 0px;
+  background-color: #3c3c3c;
+  color: #ffffff;
+
+}
